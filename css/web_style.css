@@ -4,6 +4,6 @@ section{margin:100px 0px;}
 .inner{width:1200px;margin:0 auto}
 
 #section1{margin-top:0px;display:flex;flex-wrap: nowrap;}
-#section1 .nav li{margin-left:72px;margin-top:20px;font-size:2rem;font-weight:700;}
+#section1 .nav li{margin-left:72px;margin-top:20px;font-size:1rem;font-weight:700;}
 #section1 .nav li:hover{color:#ff585d}
 #section1 .web{width:100%;display: block;margin: auto;} 
